@@ -1,5 +1,5 @@
 # IP-Address-List
-A list of 500+ IP Adresses 
+A list of 1700+ IP Adresses 
 more coming...
 
 ## Features
