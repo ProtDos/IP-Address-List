@@ -1,10 +1,11 @@
 # IP-Address-List
-A list of 1700+ IP Adresses 
+A list of 2700+ IP Adresses 
 more coming...
 
 ## Features
 - valid
 - checked
+- unique
 
 Can be used for anything you want
 
