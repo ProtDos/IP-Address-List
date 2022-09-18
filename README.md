@@ -7,6 +7,8 @@ more coming...
 - checked
 - unique
 
+## 170+ countries (sorted by name)
+
 Can be used for anything you want
 
 Aware: These are no known proxies...
